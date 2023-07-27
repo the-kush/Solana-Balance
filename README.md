@@ -1,3 +1,6 @@
+<img width="745" alt="Screenshot 2023-07-27 at 1 24 43 PM" src="https://github.com/the-kush/Solana-Balance/assets/81506311/e4f85397-cff9-4a39-bb0f-73590558dca4">
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
